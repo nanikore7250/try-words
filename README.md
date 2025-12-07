@@ -15,4 +15,6 @@ IaC(terraform)でコード化を予定
  - ビット分割
  - DRM/IRM
  - 消磁
+ - OWASPのアクティブセキュリティテストガイド
+ - Uptime Instituteの評価システム
  - 
