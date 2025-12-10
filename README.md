@@ -22,4 +22,6 @@ IaC(terraform)でコード化を予定
  - BC/DR
  - WAF
  - tcpdump
+ - CASB
+ - nmap
  - 
