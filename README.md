@@ -25,4 +25,7 @@ IaC(terraform)でコード化を予定
  - CASB
  - nmap
  - Diffie-Hellman鍵交換
+ - 透過的な暗号化
+ - アプリケーションレベルの暗号化
+ - 準同型暗号
  - 
